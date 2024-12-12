@@ -16,8 +16,8 @@
 ---
 
 ### 🤝 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/-Yassine%20Chemlali-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yassine%20chemlali/)
- [![Instagram](https://img.shields.io/badge/-Yassine%20Chemlali-orange?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/in/yassine_chemlalii/)
+[![LinkedIn](https://img.shields.io/badge/-Yassine%20Chemlali-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/yassine-chemlali-a9a741337)
+ [![Instagram](https://img.shields.io/badge/-Yassine%20Chemlali-orange?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/yassine_chemlalii/)
 
 
 ---
